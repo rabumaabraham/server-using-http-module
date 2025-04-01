@@ -26,7 +26,7 @@ This is a simple HTTP server built using **Node.js**. It listens for incoming re
 1. **Clone the repository**:
 
     \`\`\`bash
-    git clone https://github.com/yourusername/simple-http-server-node.git
+    git clone https://github.com/rabumaabraham/simple-http-server-node.git
     \`\`\`
 
 2. **Navigate into the project directory**:
