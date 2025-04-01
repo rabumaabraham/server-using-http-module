@@ -25,23 +25,23 @@ This is a simple HTTP server built using **Node.js**. It listens for incoming re
 
 1. **Clone the repository**:
 
-    \`\`\`bash
+    ```bash
     git clone https://github.com/rabumaabraham/simple-http-server-node.git
-    \`\`\`
+    ```
 
 2. **Navigate into the project directory**:
 
-    \`\`\`bash
+    ```bash
     cd simple-http-server-node
-    \`\`\`
+    ```
 
 3. **Run the server**:
 
     Make sure you have Node.js installed. Then, run the following command to start the server:
 
-    \`\`\`bash
+    ```bash
     node server.js
-    \`\`\`
+    ```
 
     The server will start on **http://127.0.0.1:3000**.
 
